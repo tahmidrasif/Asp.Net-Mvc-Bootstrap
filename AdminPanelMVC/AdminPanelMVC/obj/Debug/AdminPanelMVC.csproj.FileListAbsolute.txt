@@ -1,0 +1,110 @@
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\AdminPanelMVC.dll.config
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\AdminPanelMVC.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\AdminPanelMVC.pdb
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Antlr3.Runtime.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\EntityFramework.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\EntityFramework.SqlServer.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Google.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Newtonsoft.Json.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Owin.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Helpers.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Mvc.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Optimization.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Razor.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.Deployment.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.Razor.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\WebGrease.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Helpers.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Mvc.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Optimization.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Razor.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.Deployment.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.Razor.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Antlr3.Runtime.pdb
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Newtonsoft.Json.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\EntityFramework.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\EntityFramework.SqlServer.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Google.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\obj\Debug\AdminPanelMVC.csprojResolveAssemblyReference.cache
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\obj\Debug\AdminPanelMVC.dll
+F:\Projects Test\AdminPanel\AdminPanelMVC\AdminPanelMVC\obj\Debug\AdminPanelMVC.pdb
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\AdminPanelMVC.dll.config
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\AdminPanelMVC.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\AdminPanelMVC.pdb
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Antlr3.Runtime.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\EntityFramework.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\EntityFramework.SqlServer.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Google.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Newtonsoft.Json.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Owin.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Helpers.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Mvc.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Optimization.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Razor.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.Deployment.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.Razor.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\WebGrease.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Helpers.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Mvc.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Optimization.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.Razor.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.Deployment.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\System.Web.WebPages.Razor.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Antlr3.Runtime.pdb
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Newtonsoft.Json.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\EntityFramework.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\EntityFramework.SqlServer.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Google.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\obj\Debug\AdminPanelMVC.csprojResolveAssemblyReference.cache
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\obj\Debug\AdminPanelMVC.dll
+E:\MVC_Projects\AdminPanel\AdminPanelMVC\AdminPanelMVC\obj\Debug\AdminPanelMVC.pdb
