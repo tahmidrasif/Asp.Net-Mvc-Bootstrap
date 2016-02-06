@@ -320,16 +320,29 @@
                 <!-- sidebar menu: : style can be found in sidebar.less -->
                 <ul class="sidebar-menu #sidemenu">
                     <li class="header">MAIN NAVIGATION</li>
-                    <li class="treeview @Html.IsControllerActive(control: new string[] { "Tabbed", "Home", "Crud","Profile" })">
+                    <li class="treeview @Html.IsControllerActive(control: new string[] { "Home" })">
                         <a href="#">
                             <i class="fa fa-dashboard"></i> <span>Dashboard</span> <i class="fa fa-angle-left pull-right"></i>
                         </a>
-                        @*@Html.IsActive("Home", "Index")*@
+
                         <ul class="treeview-menu">
                             <li class="@Html.IsActive(action: "Index", control: "Home")"> <a href="@Url.Action("Index","Home")"><i class="fa fa-circle-o"> </i> Home</a></li>
-                            <li class="@Html.IsActive(action: "Index", control: "Tabbed")"> <a href="@Url.Action("Index","Tabbed")"><i class="fa fa-circle-o"> </i> Tabbed Control</a></li>
-                            <li class="@Html.IsActive(action: "Index", control: "Crud")"> <a href="@Url.Action("Index","Crud")"><i class="fa fa-circle-o"> </i> Crud Control</a></li>
-                            <li class="@Html.IsActive(action: "Index", control: "Profile")"> <a href="@Url.Action("Index","Profile")"><i class="fa fa-circle-o"> </i> Profile Control</a></li>
+
+                            @*<li class="@Html.IsActive(action: "Index", control: "Crud")"> <a href="@Url.Action("Index","Crud")"><i class="fa fa-circle-o"> </i> Crud Control</a></li>
+                <li class="@Html.IsActive(action: "Index", control: "Profile")"> <a href="@Url.Action("Index","Profile")"><i class="fa fa-circle-o"> </i> Profile Control</a></li>*@
+                        </ul>
+                    </li>
+                    
+                    <li class="treeview @Html.IsControllerActive(control: new string[] { "BootstrapUI" })">
+                        <a href="#">
+                            <i class="fa fa-pie-chart"></i>
+                            <span>Bootstrap UI</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li class="@Html.IsActive(action: "Tabbed", control: "BootstrapUI")"> <a href="@Url.Action("Tabbed", "BootstrapUI")"><i class="fa fa-circle-o"> </i> Tabbed Control</a></li>
+                            <li class="@Html.IsActive(action: "Breadcrumbs", control: "BootstrapUI")"> <a href="@Url.Action("Breadcrumbs", "BootstrapUI")"><i class="fa fa-circle-o"> </i> Breadcrumbs Control</a></li>
+
                         </ul>
                     </li>
 

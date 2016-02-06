@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "BC2";
+}
+
+
+<section class="content-header">
+    <h2>
+        BC2
+        <small>preview of simple Breadcrumbs</small>
+    </h2>
+
+    <ol class="breadcrumb">
+        <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+        <li><a href="#">Tables</a></li>
+        <li class="active">Simple</li>
+    </ol>
+</section>
+<section class="content">
+    
+    <div class="row ">
+        <div class="col-xs-12">
+
+            @Html.ActionLink("Next", "BC1", "BootstrapUI", null, new { @class = "btn btn-warning pull-right " })
+
+        </div>
+    </div>
+
+</section>
+

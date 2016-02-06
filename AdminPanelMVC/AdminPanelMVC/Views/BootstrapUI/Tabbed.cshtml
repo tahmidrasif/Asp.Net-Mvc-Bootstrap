@@ -1,0 +1,33 @@
+﻿@using System.Web.UI.WebControls
+
+@{
+    ViewBag.Title = "Index";
+    var dict = ViewBag.FooDictionary;
+}
+<section class="content-header">
+    <h2>Index</h2>
+</section>
+
+<section class="content">
+    <div>
+        <ul class="nav nav-tabs" role="tablist">
+            <!-- Nav tabs -->
+            @foreach (KeyValuePair<string, string> item in dict)
+            {
+                <li role="presentation" @(item.Key == "Burger" ? "class=active" : "")><a href="#@item.Key" aria-controls="@item.Key" role="tab" data-toggle="tab">@item.Key</a></li>
+            }
+        </ul>
+
+        <!-- Tab     panes -->
+
+        <div class="tab-content" style="overflow: visible;">
+            @foreach (KeyValuePair<string, string> anotherItem in dict)
+            {
+
+                <div role="tabpanel" class="@(anotherItem.Key == "Burger" ? "tab-pane fade in active" : "tab-pane fade")" id="@anotherItem.Key">@anotherItem.Value</div>
+
+            }
+        </div>
+
+    </div>
+</section>
